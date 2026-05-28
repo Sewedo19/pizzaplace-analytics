@@ -1,44 +1,44 @@
-# 🍕 PizzaPlace Analytics — Dashboard Power BI
+PizzaPlace Analytics — Dashboard Power BI
 
-## 📋 Contexte
+Contexte
 
 Dashboard Power BI complet d'analyse des ventes d'une chaîne de pizzerias sur l'année 2015, avec environ 50 000 lignes de ventes exploitées.
 
-## 🎯 Objectifs métiers
+Objectifs métiers
 
 - Suivre la performance commerciale : chiffre d'affaires, nombre de commandes, panier moyen
 - Identifier les pizzas et catégories les plus performantes
 - Analyser les périodes fortes : jours, heures et mois
 - Aider à la prise de décision commerciale et opérationnelle
 
-## 🛠️ Stack technique
+Stack technique
 
 - **Power BI Desktop** — modélisation et visualisation
 - **Power Query** — nettoyage et transformation des données
 - **DAX** — mesures calculées et indicateurs
 - **Git / GitHub** — versioning et portfolio projet
 
-## 📊 Dashboards
+Dashboards
 
-### Accueil
+Accueil
 
 Vue globale des KPIs principaux : chiffre d'affaires, nombre de pizzas vendues, nombre de commandes, panier moyen, évolution mensuelle et heatmap horaire.
 
 ![Accueil](assets/screenshots/accueil.png)
 
-### Produits
+Produits
 
 Analyse du mix produit : chiffre d'affaires par pizza, répartition par catégorie et top pizzas.
 
 ![Produits](assets/screenshots/produits.png)
 
-### Opérations
+Opérations
 
 Analyse opérationnelle des ventes par jour de semaine et par heure afin d'identifier les périodes les plus performantes.
 
 ![Opérations](assets/screenshots/operations.png)
 
-## 🧮 Mesures DAX clés
+Mesures DAX clés
 
 - **CA Total** : calcul du chiffre d'affaires
 - **Nombre de commandes**
@@ -48,7 +48,7 @@ Analyse opérationnelle des ventes par jour de semaine et par heure afin d'ident
 - **Mesures d'affichage** pour améliorer la lisibilité des KPIs
 - **Indicateur de performance** avec logique conditionnelle
 
-## ✅ Fonctionnalités
+Fonctionnalités
 
 - Navigation entre les pages
 - Filtres interactifs par mois
@@ -56,12 +56,12 @@ Analyse opérationnelle des ventes par jour de semaine et par heure afin d'ident
 - KPIs business
 - Visualisations organisées par thème : Accueil, Produits, Opérations
 
-## 📁 Fichier Power BI
+Fichier Power BI
 
 Le fichier Power BI est disponible ici :
 
 [powerbi/pizzaplace_analytics.pbix](powerbi/pizzaplace_analytics.pbix)
 
-## 👤 Auteur
+Auteur
 
-Projet réalisé par **Sèwèdo HOUNSONLON**.
+Projet réalisé par Sèwèdo HOUNSONLON.
